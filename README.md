@@ -66,6 +66,5 @@ Types should always be as specific (restrictive) as possible, especially for res
 14. Do not use the pub/access(all) modifier on fields and functions unless necessary. 
 
 > Prefer priv/access(self), or access(contract) and access(account) when other types in the contract or account need to have access.
-See the design pattern.	
 
 > See the design pattern: https://docs.onflow.org/cadence/design-patterns/#script-accessible-public-fieldfunction
